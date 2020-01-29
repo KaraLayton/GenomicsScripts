@@ -1,4 +1,4 @@
-##thanks to Michelle Kendall for help including ASTRAL trees in this analysis
+##exploring topological variability with Treespace
 library(ape)
 library(treespace)
 teas_boot <- read.tree("Teasdale.ufboot")
