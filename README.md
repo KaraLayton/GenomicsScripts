@@ -1,7 +1,7 @@
 # Population genomics
 lostruct: looking for local population structure across the genome
 Rsambada: testing its utility for landscape genomics
-SNPrelate: 
+SNPrelate: LD, PCA, Fst
 micros_PCA_fstats: PCA and F-statistics with microsatellite data
 
 # Phylogenomics
