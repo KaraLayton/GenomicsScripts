@@ -1,6 +1,3 @@
-# GenomicsScripts
-R scripts for pop genomics and phylogenomics in marine species
-
 # Pop genomics
 lostruct: looking for local population structure across the genome
 Rsambada: testing its utility for landscape genomics
