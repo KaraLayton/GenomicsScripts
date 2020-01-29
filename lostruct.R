@@ -1,3 +1,4 @@
+##using lostruct to look at local pop structure and rearrangements
 library(data.table)
 devtools::install_github("petrelharp/local_pca/lostruct")
 library(lostruct)
