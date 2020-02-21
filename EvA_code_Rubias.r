@@ -1,4 +1,4 @@
-##code for mixed-stock fishery analysis in Layton et al. (2020) Evolutionary Applications
+##code for baseline and mixed-stock fishery analysis in Layton et al. (2020) Evolutionary Applications
 library(tidyverse)
 library(rubias)
 library(stringr)
