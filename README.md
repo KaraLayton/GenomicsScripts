@@ -7,7 +7,7 @@
 
 
 # Phylogenomics
-<i>host_parasite_cophylo</i>: calculating distances among host and parasite for Parafit analysis, and constructing cophylogeny
+<i>host_parasite_cophylo</i>: calculating distances among host and parasite for Parafit analysis, and constructing cophylogeny <br />
 <i>treespace</i>: exploring topological variability between different tree-building methods and gene sets
 
 # General
